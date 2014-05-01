@@ -1,0 +1,17 @@
+Scriptune - Fortune on manna by an insane man.
+
+A simple scripture fortune program with support for more than one book,
+or even language.  Can be used with cgi to generate some happy or serious
+quotes, depending on the date since Jan 1st 1970, and of course God.
+
+Included is the  KJV New Testement.  Searching is also possible '-h' option
+provides examples and instructions.
+
+Install:
+	'make' or make PREFIX=/path/to/wherever
+
+followed by:
+	'make install'
+
+Author:
+	Alastair Poole - alastairpoole@gmail.com
